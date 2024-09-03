@@ -1,0 +1,7 @@
+[kernelcare]
+name=kernelcare
+baseurl=https://repo.cloudlinux.com/kernelcare/$releasever/$basearch
+enabled=1
+gpgcheck=1
+gpgkey=https://repo.cloudlinux.com/kernelcare/RPM-GPG-KEY-KernelCare
+

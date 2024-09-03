@@ -3,12 +3,14 @@ releasever: 9
 repos:
   - baseos
   - appstream
+  - kernelcare
 
 variables:
   distro: "almalinux9"
 
 packages:
   - almalinux-repos
+  - kernelcare
 
 postprocess:
   - |
